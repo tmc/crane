@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/michaelsauter/crane/crane"
+	"github.com/tmc/crane/crane"
 )
 
 func main() {
